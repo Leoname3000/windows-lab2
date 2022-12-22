@@ -1,0 +1,11 @@
+D:\UniverWindowsLabs\WindowsLab2\WindowsLab2\bin\Debug\WindowsLab2.exe.config
+D:\UniverWindowsLabs\WindowsLab2\WindowsLab2\bin\Debug\WindowsLab2.exe
+D:\UniverWindowsLabs\WindowsLab2\WindowsLab2\bin\Debug\WindowsLab2.pdb
+D:\UniverWindowsLabs\WindowsLab2\WindowsLab2\obj\Debug\WindowsLab2.csproj.AssemblyReference.cache
+D:\UniverWindowsLabs\WindowsLab2\WindowsLab2\obj\Debug\WindowsLab2.Properties.Resources.resources
+D:\UniverWindowsLabs\WindowsLab2\WindowsLab2\obj\Debug\WindowsLab2.csproj.GenerateResource.cache
+D:\UniverWindowsLabs\WindowsLab2\WindowsLab2\obj\Debug\WindowsLab2.csproj.CoreCompileInputs.cache
+D:\UniverWindowsLabs\WindowsLab2\WindowsLab2\obj\Debug\WindowsLab2.exe
+D:\UniverWindowsLabs\WindowsLab2\WindowsLab2\obj\Debug\WindowsLab2.pdb
+D:\UniverWindowsLabs\WindowsLab2\WindowsLab2\obj\Debug\WindowsLab2.MainForm.resources
+D:\UniverWindowsLabs\WindowsLab2\WindowsLab2\obj\Debug\WindowsLab2.StyleForm.resources
